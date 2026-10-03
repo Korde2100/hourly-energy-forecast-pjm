@@ -68,6 +68,3 @@ A walkthrough of the project, including EDA, feature construction, model benchma
 
 ## License & Citation
 This work is for academic purposes and may be shared for educational use with proper attribution to the team and mentor.
-
----
-*Generated automatically by Antigravity AI assistant.*
