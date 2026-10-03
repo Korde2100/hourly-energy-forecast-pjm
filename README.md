@@ -3,16 +3,8 @@
 ## Project Overview
 This repository contains the deliverables for the capstone project **P-702 / P679** – *Hourly Energy Consumption Forecast* for the PJM West transmission zone. The goal is to predict hourly electricity demand (MW) to aid grid balancing, scheduling, and risk mitigation.
 
-### Team
-- **Mentor:** K. Dilavar Bassha
-- **Team Members:**
-  - Palem Soma Sekhar
-  - Seetha Reddiar
-  - Mallela Somanath
-  - Vishal Parmar
-  - Ailaveni Praveen
-  - Richa Amardas Deshmukh
-  - Dhanashree Korde
+### Mentor
+- **K. Dilavar Bassha** 
 
 ## Key Features
 - **Data:** 143,202 hourly observations (Apr 2002 – Aug 2018) from PJM.
